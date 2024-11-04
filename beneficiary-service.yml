@@ -6,10 +6,6 @@ spring:
     console:
       enabled: true
 
-
-  cloud:
-    config:
-      enabled: false
 # port:
 server:
   port: 8081
